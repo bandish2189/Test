@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+	font-family: 'Saumil_guj2Normal';
+	src: url('fonts/riesling.eot');
+	src: local('Saumil_guj2 Normal'), local('Saumil_guj2'), url('http://swaggerunit.com/external_script/bkrs/Saumil_guj2.ttf') format('truetype');
+}
+body {
+  font-family: 'Saumil_guj2Normal', Fallback, sans-serif;
+}
+
+
+
